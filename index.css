@@ -16,7 +16,7 @@
 }
 
 .logo{
-    background: url("/logo.png") no-repeat left center;
+    background: url("/src/assets/logo.png") no-repeat left center;
     height: 80px;
 }
 
