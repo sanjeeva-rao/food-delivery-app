@@ -11,6 +11,9 @@
 
 .body{
     background: #f4f5f6;
+}
+
+.res-card-body{
     display: flex;
     flex-wrap: wrap;
 }
